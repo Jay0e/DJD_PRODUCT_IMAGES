@@ -1,7 +1,7 @@
 {
-  "version": "1793077640",
-  "updated_at": "2026-10-27T14:07:20",
-  "count": 381,
+  "version": "1793077732",
+  "updated_at": "2026-10-27T14:08:52",
+  "count": 382,
   "base_url": "https://raw.githubusercontent.com/Jay0e/DJD_PRODUCT_IMAGES/main/products/",
   "files": {
     "1.png": {
@@ -1255,6 +1255,10 @@
     "435.png": {
       "sha256": "40e663f475fa892d02b5e24cdbb21467222acbb99309130ee232f14af10de380",
       "bytes": 1290553
+    },
+    "436.jpg": {
+      "sha256": "b2225f3a0369da13230ddc8d6da2ef2f7e9bb91116a6ef3ee1f486e3fd6d282c",
+      "bytes": 129956
     },
     "436.png": {
       "sha256": "664dca12c1408de66d9e51497d61124abc7fec8024e1ed4e6400405dfbc30ccd",
