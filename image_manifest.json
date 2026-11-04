@@ -1,7 +1,7 @@
 {
-  "version": "1793764812",
-  "updated_at": "2026-11-04T13:00:12",
-  "count": 384,
+  "version": "1793765941",
+  "updated_at": "2026-11-04T13:19:01",
+  "count": 379,
   "base_url": "https://raw.githubusercontent.com/Jay0e/DJD_PRODUCT_IMAGES/main/products/",
   "files": {
     "1.png": {
@@ -1256,41 +1256,21 @@
       "sha256": "40e663f475fa892d02b5e24cdbb21467222acbb99309130ee232f14af10de380",
       "bytes": 1290553
     },
-    "436.jpg": {
-      "sha256": "b2225f3a0369da13230ddc8d6da2ef2f7e9bb91116a6ef3ee1f486e3fd6d282c",
-      "bytes": 129956
-    },
     "436.png": {
       "sha256": "664dca12c1408de66d9e51497d61124abc7fec8024e1ed4e6400405dfbc30ccd",
       "bytes": 30929
     },
     "437.png": {
-      "sha256": "1eca7719cb4330518c99c9d701f0b5ca54f26f02c85af8a7661cb9a4764722da",
-      "bytes": 265007
+      "sha256": "664dca12c1408de66d9e51497d61124abc7fec8024e1ed4e6400405dfbc30ccd",
+      "bytes": 30929
     },
     "438.png": {
-      "sha256": "ed35b93e83f8506bb3b7ba5317617a0a220aa977207b7343686bcfee4d48a9dd",
-      "bytes": 311026
-    },
-    "439.png": {
-      "sha256": "ddd1eb83d151a50c94549f426008214442eabdf189ed0f7118af2984f2792483",
-      "bytes": 1160559
+      "sha256": "664dca12c1408de66d9e51497d61124abc7fec8024e1ed4e6400405dfbc30ccd",
+      "bytes": 30929
     },
     "44.png": {
       "sha256": "fd9fb651db2e7ef66a355eb15a222cdd0f9bd8deb9f90ca9be1eb45135cbfb54",
       "bytes": 71875
-    },
-    "440.png": {
-      "sha256": "42c35a215ca8058c970cceaa5870ca70b5938e140bb1c3e4670e1ba03cc24c10",
-      "bytes": 503717
-    },
-    "441.png": {
-      "sha256": "658e1230d91d4194142c7fbfe1d4dfad4994249ffe9af606a676eebe6551bceb",
-      "bytes": 701990
-    },
-    "442.png": {
-      "sha256": "aba77a9469cb7d02cb18b01ae468b73c8c0df0b0f00c8ba8c0f3d400f6077ac3",
-      "bytes": 526030
     },
     "45.jpg": {
       "sha256": "debb1e9e2752b52d6f6b1bcdf2a39284a9bb1e264f3a32d0992f15341be9dc64",
